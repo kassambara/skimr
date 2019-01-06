@@ -2,10 +2,11 @@
 skimr
 =====
 
-[![Build
-Status](https://travis-ci.org/ropenscilabs/skimr.svg?branch=master)](https://travis-ci.org/ropenscilabs/skimr)
-[![codecov](https://codecov.io/gh/ropenscilabs/skimr/branch/master/graph/badge.svg)](https://codecov.io/gh/ropenscilabs/skimr)
+[![codecov](https://codecov.io/gh/ropensci/skimr/branch/master/graph/badge.svg)](https://codecov.io/gh/ropenscilabs/skimr)
 [![](https://badges.ropensci.org/175_status.svg)](https://github.com/ropensci/onboarding/issues/175)
+[![Build
+status](https://ci.appveyor.com/api/projects/status/8p93v3t949ubyl06/branch/master?svg=true)](https://ci.appveyor.com/project/michaelquinn32/skimr/branch/master)
+[![codecov](https://codecov.io/gh/ropensci/skimr/branch/master/graph/badge.svg)](https://codecov.io/gh/ropensci/skimr)
 
 `skimr` provides a frictionless approach to summary statistics which
 conforms to the [principle of least
@@ -629,3 +630,5 @@ support for commonly used variable classes. However, in general, we
 encourage users to take advantage of skimr's flexibility to add their
 own customized classes. Please see the [contributing](CONTRIBUTING.md)
 and [conduct](CONDUCT.md) documents.
+
+[![ropenci\_footer](https://ropensci.org/public_images/ropensci_footer.png)](https://ropensci.org)
